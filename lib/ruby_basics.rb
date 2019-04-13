@@ -11,7 +11,7 @@ def argue(phrase = "I'm right and you are wrong!")
 end
 
 def greeting(greeting = "Hi there, ", name = "Bobby!")
-  greeting
+  greeting("Hi there, ")
 end
 
 def return_a_value
